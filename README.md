@@ -54,7 +54,7 @@ Frontend developer with **8+ years of experience** + 3 years as Graphic Designer
 **Irkutsk State University**  
 Faculty of Computer Science, Applied Informatics (2016)  
 
-## 🚀 Side Projects  
+## 🚀 Pet Projects  
 - [InvestFactors](https://investfactors.ru) - Investment portal (Vue, Node.js)  
 - [Logolook](https://logolook.ru) - Logo generator (Angular, Firebase)  
 - [Phaser Game Demo](https://http416.ru/projects/phaser-game/)  
