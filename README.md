@@ -1,5 +1,5 @@
 # Prokhor Orlov  
-🪪 Frontend Developer, **8+** years experience  
+🪪 Senior Frontend Developer, **8+** years experience  
 📍 Moscow, Russia | Open to work | Remote  
 📫 [Telegram](https://t.me/http416) | [prokhororlov@gmail.com](mailto:prokhororlov@gmail.com) | [Linkedin](https://www.linkedin.com/in/prokhororlov/)
 
