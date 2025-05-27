@@ -9,7 +9,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ## 🛠 Tech Stack  
 **Frontend:** React, Vue (2/3), TypeScript, JavaScript (ES6+), MobX, Effector  
 **Graphics:** Pixi.js, WebGL, Spine, Canvas, CSS/SVG animations  
-**Tools:** Webpack, Vite, Storybook, Git, Docker, Linux, Bash 
+**Tools:** Webpack, Vite, Storybook, Git, Docker, Linux, Bash  
 **Backend:** Node.js, Express, REST API, WebSockets 
 
 ## 💼 Professional Experience  
