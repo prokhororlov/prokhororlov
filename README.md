@@ -1,27 +1,15 @@
 # Prokhor Orlov  
-**Senior Frontend Developer**  
+🪪 Frontend Developer, **8+** years experience  
 📍 Moscow, Russia | Open to work | Remote  
-
-## 📫 Contact  
-- **Telegram:** [@http416](https://t.me/http416)  
-- **Email:** [prokhororlov@gmail.com](mailto:prokhororlov@gmail.com)  
-- **Website:** [https://http416.ru](https://http416.ru)  
-- **Linkedin:** [https://www.linkedin.com/in/prokhororlov/](https://www.linkedin.com/in/prokhororlov/)
+📫 [Telegram](https://t.me/http416) | [prokhororlov@gmail.com](mailto:prokhororlov@gmail.com) | [Linkedin](https://www.linkedin.com/in/prokhororlov/)
 
 ## 👨‍💻 About Me  
-Frontend developer with **8+ years of experience** + 3 years as Graphic Designer, specializing in complex interactive web applications, architecture, and team leadership.  
-
-**Key skills:**  
-- **React/Vue/TypeScript** development  
-- Complex animagions (**WebGL, Canvas, SVG animations**) 
-- Performance optimization
-- Team leadership (tech lead, mentoring)  
-- Full development cycle: from architecture to CI/CD  
+I'm a **T-shaped Frontend Engineer** specializing in complex interactive web applications, architecture, team leadership with experience in Node.js, Java, C++, and graphic design background. My experience inspires me to craft performant, animation-rich UIs with meticulous attention to detail. I thrive on solving complex technical challenges across the full stack while mentoring teams to deliver maintainable solutions. What drives me is creating seamless user experiences through clean architectures and optimized performance. My unique blend of technical depth and creative vision helps bridge gaps between design, frontend, and backend domains.
 
 ## 🛠 Tech Stack  
-**Frontend:** React, Vue (2/3), Angular, TypeScript, JavaScript (ES6+), MobX, Effector  
+**Frontend:** React, Vue (2/3), TypeScript, JavaScript (ES6+), MobX, Effector  
 **Graphics:** Pixi.js, WebGL, Spine, Canvas, CSS/SVG animations  
-**Tools:** Webpack, Vite, Storybook, Git, Docker  
+**Tools:** Webpack, Vite, Storybook, Git, Docker, Linux, Bash 
 **Backend:** Node.js, Express, REST API, WebSockets  
 **Languages:** Russian (native), English (B2)  
 
