@@ -49,8 +49,8 @@ Jul 2017-Apr 2020
   - [Promo code management system](https://disk.yandex.ru/i/NJiKoZAGcNDwTg) (Vue, PouchDB, ElementUI)  
   - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Nuxt)  
 
-### **Graphic Designer** @ Business Youth 
-Jan-Jun 2017  
+Jan-Jun 2017 
+### **Graphic Designer** @ Business Youth  
 - Designed landing pages and promotional materials  
 - Coordinated team of 2-4 designers
 
@@ -70,7 +70,7 @@ Faculty of Computer Science, Applied Informatics (2016)
 - [Phaser Game](https://http416.ru/projects/phaser-game/) (Phaser, javascript-state-machine)
 - [Design Portfolio](https://vk.com/zenbz) (Adobe Photoshop, Adobe Illustrator)
 
-### 🚀 Open to Roles  
+## 🚀 Open to Roles  
 **Senior Frontend Developer** or **🌐 Fullstack Developer (JS + Node.js)**  
 - **Frontend**: React/Vue | Performance | WebGL/Pixi.js  
 - **Backend**: Node.js | Express | Databases  
