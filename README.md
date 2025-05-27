@@ -28,7 +28,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ㅤStack: React, TypeScript, MobX, Pixi.js, Vite, Orval
 
 ### **Senior Frontend Developer**
-ㅤ _**NDA** | Mar 2021-2024_  
+ㅤ [_**100HP Gaming**_](https://100hp.game) | Mar 2021-2024  
 - Developed embedded online games with complex skeletal animations using Pixi.js, Spine, and WebGL  
 - Implemented lightweight full-screen CSS animations and agnostic state management  
 - Designed monorepository architecture and optimized resources, code, and network requests  
@@ -40,7 +40,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ㅤStack: React, Effector, Pixi.js, Spine, WebGL, JavaScript, TypeScript, Webpack
 
 ### **Middle Frontend Developer** 
-ㅤ _**Compass** | May 2020-Mar 2021_  
+ㅤ [_**Compass**_](https://getcompass.ru) | May 2020-Mar 2021  
 - Built Electron-based corporate messenger with Vue 2/3  
 - Developed WYSIWYG notes editor module  
 - Implemented cross-window communication between modules  
@@ -49,7 +49,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ㅤStack: Typescript, Vue 2, Vue 3, Electron, WebSocket
 
 ### **Frontend Developer**  
-ㅤ _**Synergy Educational Holding** | Jul 2017-Apr 2020_  
+ㅤ [_**Synergy Educational Holding**_](https://synergy.ru/) | Jul 2017-Apr 2020  
 - Developed CRM for ticket booking service with lazy loading, caching (ServiceWorker, IndexedDB)  
 - Created marketplace using Nuxt.js  
 - Implemented complex animations (SVG, Canvas, WebGL)  
