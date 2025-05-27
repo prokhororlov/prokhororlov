@@ -25,7 +25,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - Mentored team through 1:1s, individual development plans, and proactive culture building  
 
 ### **Senior Frontend Developer**
-_**NDA** | Mar 2021-2024_  
+ㅤ _**NDA** | Mar 2021-2024_  
 - Developed embedded online games with complex skeletal animations using Pixi.js, Spine, and WebGL  
 - Implemented lightweight full-screen CSS animations and agnostic state management  
 - Designed monorepository architecture and optimized resources, code, and network requests  
