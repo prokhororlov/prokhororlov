@@ -30,7 +30,9 @@ Mar 2021-2024
 - Implemented lightweight full-screen CSS animations and agnostic state management  
 - Designed monorepository architecture and optimized resources, code, and network requests  
 - Established build/deploy processes and conducted releases  
-- Created technical documentation and conducted technical interviews  
+- Created technical documentation and conducted technical interviews
+- Crafted a supper effective offline [images optimizer](https://github.com/prokhororlov/image-optimizer)
+- Made usefull [repo to file](https://github.com/prokhororlov/repo2file) tool for packing any project codebase to a single file for uploading as a context to AI  
 
 ### **Middle Frontend Developer** @ Compass 
 May 2020-Mar 2021  
@@ -67,8 +69,9 @@ Faculty of Computer Science, Applied Informatics (2016)
 ## 📂 Pet Projects  
 - [InvestFactors](https://investfactors.ru) - Investment portal (Vue, Node.js, Express, Passport.js, Firebase, Element Plus)  
 - [Logolook](https://logolook.ru) - Logo generator (Angular 4, Node.js, Firebase, Nginx, SVG)  
-- [Phaser Game](https://http416.ru/projects/phaser-game/) (Phaser, javascript-state-machine)
-- [Design Portfolio](https://vk.com/zenbz) (Adobe Photoshop, Adobe Illustrator)
+- [Phaser Game](https://http416.ru/projects/phaser-game/) - Simple arcade game (Phaser, javascript-state-machine)
+- [Design Portfolio](https://vk.com/zenbz) - UI, UX, Design, Identity (Adobe Photoshop, Adobe Illustrator)
+- [Frontend Portfolio](https://http416.ru)
 
 ## 🚀 Open to Roles  
 **Senior Frontend Developer** or **🌐 Fullstack Developer (JS + Node.js)**  
