@@ -58,6 +58,7 @@ Faculty of Computer Science, Applied Informatics (2016)
 - [InvestFactors](https://investfactors.ru) - Investment portal (Vue, Node.js)  
 - [Logolook](https://logolook.ru) - Logo generator (Angular, Firebase)  
 - [Phaser Game Demo](https://http416.ru/projects/phaser-game/)  
+- [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Vue 2, Nuxt).
 
 📌 **Open to new opportunities!**  
 Preferably remote positions.
