@@ -15,7 +15,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ## 💼 Professional Experience  
 
 ### **Frontend Lead**
-_**NDA** | Aug 2024-Present_  
+ㅤ _**NDA** | Aug 2024-Present_  
 - Leading team of 8+ frontend developers in high-pressure environment with frequent process changes  
 - Managed full development cycle from requirements analysis with PO/game designers to release and maintenance  
 - Established coding standards and regular reviews to minimize technical debt  
@@ -35,14 +35,14 @@ _**NDA** | Mar 2021-2024_
 - Made usefull [repo to file](https://github.com/prokhororlov/repo2file) tool for packing any project codebase to a single file for uploading as a context to AI  
 
 ### **Middle Frontend Developer** 
-_**Compass** | May 2020-Mar 2021_  
+ㅤ _**Compass** | May 2020-Mar 2021_  
 - Built Electron-based corporate messenger with Vue 2/3  
 - Developed WYSIWYG notes editor module  
 - Implemented cross-window communication between modules  
 - Created component library using Storybook  
 
 ### **Frontend Developer**  
-_**Synergy Educational Holding** | Jul 2017-Apr 2020_  
+ㅤ _**Synergy Educational Holding** | Jul 2017-Apr 2020_  
 - Developed CRM for ticket booking service with lazy loading, caching (ServiceWorker, IndexedDB)  
 - Created marketplace using Nuxt.js  
 - Implemented complex animations (SVG, Canvas, WebGL)  
@@ -52,12 +52,12 @@ _**Synergy Educational Holding** | Jul 2017-Apr 2020_
   - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Nuxt)  
  
 ### **Graphic Designer**  
-_**Business Youth** | Jan-Jun 2017_
+ㅤ _**Business Youth** | Jan-Jun 2017_
 - Designed landing pages and promotional materials  
 - Coordinated team of 2-4 designers
 
 ### **Freelance Developer & Designer** 
-_2014-2016_
+ㅤ _2014-2016_
 - Delivered full-stack solutions for clients including Business Youth and Tricolor TV
 - Handled 360° projects: UI design → frontend development → backend integration
 - Built responsive websites, branding packages, and marketing materials
