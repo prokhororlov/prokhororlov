@@ -14,7 +14,8 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 
 ## 💼 Professional Experience  
 
-### **Frontend Lead** @ NDA (Aug 2024-Present)  
+### **Frontend Lead** @ NDA
+Aug 2024-Present  
 - Leading team of 8+ frontend developers in high-pressure environment with frequent process changes  
 - Managed full development cycle from requirements analysis with PO/game designers to release and maintenance  
 - Established coding standards and regular reviews to minimize technical debt  
@@ -23,37 +24,54 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - Optimized processes by introducing testing tools, CI/CD, and error monitoring  
 - Mentored team through 1:1s, individual development plans, and proactive culture building  
 
-### **Senior Frontend Developer** @ NDA (Mar 2021-2024)  
+### **Senior Frontend Developer** @ NDA
+Mar 2021-2024  
 - Developed embedded online games with complex skeletal animations using Pixi.js, Spine, and WebGL  
 - Implemented lightweight full-screen CSS animations and agnostic state management  
 - Designed monorepository architecture and optimized resources, code, and network requests  
 - Established build/deploy processes and conducted releases  
 - Created technical documentation and conducted technical interviews  
 
-### **Middle Frontend Developer** @ Compass (May 2020-Mar 2021)  
+### **Middle Frontend Developer** @ Compass 
+May 2020-Mar 2021  
 - Built Electron-based corporate messenger with Vue 2/3  
 - Developed WYSIWYG notes editor module  
 - Implemented cross-window communication between modules  
 - Created component library using Storybook  
 
-### **Frontend Developer** @ Synergy Educational Holding (Jul 2017-Apr 2020)  
+### **Frontend Developer** @ Synergy Educational Holding 
+Jul 2017-Apr 2020  
 - Developed CRM for ticket booking service with lazy loading, caching (ServiceWorker, IndexedDB)  
 - Created marketplace using Nuxt.js  
 - Implemented complex animations (SVG, Canvas, WebGL)  
 - Portfolio:  
   - [Venue map editor](https://disk.yandex.ru/i/QMOW0Xe1Pr1ptg) (TypeScript, SVG)  
-  - [Promo code management system](https://disk.yandex.ru/i/NJiKoZAGcNDwTg) (Vue, PouchDB)  
-  - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Vue 2, Nuxt)  
+  - [Promo code management system](https://disk.yandex.ru/i/NJiKoZAGcNDwTg) (Vue, PouchDB, ElementUI)  
+  - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Nuxt)  
 
-### **Graphic Designer** @ Business Youth (Jan-Jun 2017)  
+### **Graphic Designer** @ Business Youth 
+Jan-Jun 2017  
 - Designed landing pages and promotional materials  
-- Coordinated team of 2-4 designers  
+- Coordinated team of 2-4 designers
+
+### **Freelance Developer & Designer** 
+2014-2016
+- Delivered full-stack solutions for clients including Business Youth and Tricolor TV
+- Handled 360° projects: UI design → frontend development → backend integration
+- Built responsive websites, branding packages, and marketing materials
 
 ## 🎓 Education  
 **Irkutsk State University**  
 Faculty of Computer Science, Applied Informatics (2016)  
 
-## 🚀 Pet Projects  
+## 📂 Pet Projects  
 - [InvestFactors](https://investfactors.ru) - Investment portal (Vue, Node.js, Express, Passport.js, Firebase, Element Plus)  
 - [Logolook](https://logolook.ru) - Logo generator (Angular 4, Node.js, Firebase, Nginx, SVG)  
-- [Phaser Game Demo](https://http416.ru/projects/phaser-game/) (Phaser, javascript-state-machine)
+- [Phaser Game](https://http416.ru/projects/phaser-game/) (Phaser, javascript-state-machine)
+- [Design Portfolio](https://vk.com/zenbz) (Adobe Photoshop, Adobe Illustrator)
+
+### 🚀 Open to Roles  
+**Senior Frontend Developer** or **🌐 Fullstack Developer (JS + Node.js)**  
+- **Frontend**: React/Vue | Performance | WebGL/Pixi.js  
+- **Backend**: Node.js | Express | Databases  
+- **Leadership**: Architecture | Mentoring | Process optimization  
