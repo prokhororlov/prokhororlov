@@ -14,8 +14,8 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 
 ## 💼 Professional Experience  
 
-### **Frontend Lead** @ NDA
-Aug 2024-Present  
+### **Frontend Lead**
+**NDA** | Aug 2024-Present  
 - Leading team of 8+ frontend developers in high-pressure environment with frequent process changes  
 - Managed full development cycle from requirements analysis with PO/game designers to release and maintenance  
 - Established coding standards and regular reviews to minimize technical debt  
@@ -24,8 +24,8 @@ Aug 2024-Present
 - Optimized processes by introducing testing tools, CI/CD, and error monitoring  
 - Mentored team through 1:1s, individual development plans, and proactive culture building  
 
-### **Senior Frontend Developer** @ NDA
-Mar 2021-2024  
+### **Senior Frontend Developer**
+**NDA** | Mar 2021-2024  
 - Developed embedded online games with complex skeletal animations using Pixi.js, Spine, and WebGL  
 - Implemented lightweight full-screen CSS animations and agnostic state management  
 - Designed monorepository architecture and optimized resources, code, and network requests  
@@ -34,15 +34,15 @@ Mar 2021-2024
 - Crafted a supper effective offline [images optimizer](https://github.com/prokhororlov/image-optimizer)
 - Made usefull [repo to file](https://github.com/prokhororlov/repo2file) tool for packing any project codebase to a single file for uploading as a context to AI  
 
-### **Middle Frontend Developer** @ Compass 
-May 2020-Mar 2021  
+### **Middle Frontend Developer** 
+**Compass** | May 2020-Mar 2021  
 - Built Electron-based corporate messenger with Vue 2/3  
 - Developed WYSIWYG notes editor module  
 - Implemented cross-window communication between modules  
 - Created component library using Storybook  
 
-### **Frontend Developer** @ Synergy Educational Holding 
-Jul 2017-Apr 2020  
+### **Frontend Developer**  
+**Synergy Educational Holding** | Jul 2017-Apr 2020  
 - Developed CRM for ticket booking service with lazy loading, caching (ServiceWorker, IndexedDB)  
 - Created marketplace using Nuxt.js  
 - Implemented complex animations (SVG, Canvas, WebGL)  
@@ -51,8 +51,8 @@ Jul 2017-Apr 2020
   - [Promo code management system](https://disk.yandex.ru/i/NJiKoZAGcNDwTg) (Vue, PouchDB, ElementUI)  
   - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Nuxt)  
  
-### **Graphic Designer** @ Business Youth  
-Jan-Jun 2017
+### **Graphic Designer**  
+**Business Youth** | Jan-Jun 2017
 - Designed landing pages and promotional materials  
 - Coordinated team of 2-4 designers
 
