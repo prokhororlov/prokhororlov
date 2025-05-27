@@ -48,9 +48,9 @@ Jul 2017-Apr 2020
   - [Venue map editor](https://disk.yandex.ru/i/QMOW0Xe1Pr1ptg) (TypeScript, SVG)  
   - [Promo code management system](https://disk.yandex.ru/i/NJiKoZAGcNDwTg) (Vue, PouchDB, ElementUI)  
   - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Nuxt)  
-
-Jan-Jun 2017 
+ 
 ### **Graphic Designer** @ Business Youth  
+Jan-Jun 2017
 - Designed landing pages and promotional materials  
 - Coordinated team of 2-4 designers
 
