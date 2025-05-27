@@ -7,9 +7,9 @@
 I'm a **T-shaped Frontend Engineer** specializing in complex interactive web applications, architecture, team leadership with experience in Node.js, Java, C++, and graphic design background. My experience inspires me to craft performant, animation-rich UIs with meticulous attention to detail. I thrive on solving complex technical challenges across the full stack while mentoring teams to deliver maintainable solutions. What drives me is creating seamless user experiences through clean architectures and optimized performance. My unique blend of technical depth and creative vision helps bridge gaps between design, frontend, and backend domains.
 
 ## 🛠 Skills  
-**Frontend:** JavaScript; TypeScript; React; Vue; Angular; Effector, MobX, Styled Components, SCSS, LESS.  
+**Frontend:** JavaScript; TypeScript; React; Vue; Angular, Effector, MobX, Styled Components, SCSS, LESS.  
 **Graphics:** Pixi.js, WebGL, Spine, Canvas, CSS/SVG animations.  
-**Tools:** Webpack, Vite, Storybook, Git, Docker, Linux, Bash.  
+**Tools:** Webpack, Vite, Orval, Storybook, Git, Docker, Linux, Bash.  
 **Backend:** Node.js, Express, REST API, WebSockets, PHP.  
 **Other:** Nginx, Linux, Git, UI, UX, CI/CD, OOP, MVC, MVVM, Clean Architecture, Figma.
 
@@ -25,6 +25,8 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - Optimized processes by introducing testing tools, CI/CD, and error monitoring  
 - Mentored team through 1:1s, individual development plans, and proactive culture building  
 
+ㅤStack: React, TypeScript, MobX, Pixi.js, Vite, Orval
+
 ### **Senior Frontend Developer**
 ㅤ _**NDA** | Mar 2021-2024_  
 - Developed embedded online games with complex skeletal animations using Pixi.js, Spine, and WebGL  
@@ -35,12 +37,16 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - Crafted a supper effective offline [images optimizer](https://github.com/prokhororlov/image-optimizer)
 - Made usefull [repo to file](https://github.com/prokhororlov/repo2file) tool for packing any project codebase to a single file for uploading as a context to AI  
 
+ㅤStack: React, Effector, Pixi.js, Spine, WebGL, JavaScript, TypeScript, Webpack
+
 ### **Middle Frontend Developer** 
 ㅤ _**Compass** | May 2020-Mar 2021_  
 - Built Electron-based corporate messenger with Vue 2/3  
 - Developed WYSIWYG notes editor module  
 - Implemented cross-window communication between modules  
 - Created component library using Storybook  
+
+ㅤStack: Typescript, Vue 2, Vue 3, Electron, WebSocket
 
 ### **Frontend Developer**  
 ㅤ _**Synergy Educational Holding** | Jul 2017-Apr 2020_  
@@ -51,17 +57,16 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
   - [Venue map editor](https://disk.yandex.ru/i/QMOW0Xe1Pr1ptg) (TypeScript, SVG)  
   - [Promo code management system](https://disk.yandex.ru/i/NJiKoZAGcNDwTg) (Vue, PouchDB, ElementUI)  
   - [Synergy Marketplace](http://synergystore.ab.tmweb.ru) (Nuxt)  
- 
-### **Graphic Designer**  
-ㅤ _**Business Youth** | Jan-Jun 2017_
-- Designed landing pages and promotional materials  
-- Coordinated team of 2-4 designers
 
-### **Freelance Developer & Designer** 
-ㅤ _2014-2016_
+ㅤStack: TypeScript,LESS, SVG, PHP, Vue, Vuex, Vue Router, Keycloak, PouchDB, Element UI, Nuxt, JavaScript
+
+### **Freelance Developer & Graphic Designer** 
+ㅤ _2014-2017_
 - Delivered full-stack solutions for clients including Business Youth and Tricolor TV
 - Handled 360° projects: UI design → frontend development → backend integration
 - Built responsive websites, branding packages, and marketing materials
+
+ㅤStack: Adobe Photoshop, Adobe Illustrator, PHP, HTML, CSS, JavaScript
 
 ## 🎓 Education  
 **Irkutsk State University**  
