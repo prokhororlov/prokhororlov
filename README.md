@@ -80,7 +80,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - [Frontend Portfolio](https://http416.ru)
 
 ## 🚀 Open to Roles  
-**Senior Frontend Developer** or **🌐 Fullstack Developer (JS + Node.js)**  
+**Senior Frontend Developer** or **Fullstack Javascript Developer (React / Vue + Node)**  
 - **Frontend**: React/Vue | Performance | WebGL/Pixi.js  
 - **Backend**: Node.js | Express | Databases  
 - **Leadership**: Architecture | Mentoring | Process optimization  
