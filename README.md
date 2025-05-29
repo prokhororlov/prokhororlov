@@ -85,4 +85,4 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - **Backend**: Node.js | Express | Databases  
 - **Leadership**: Architecture | Mentoring | Process optimization  
 
-[![Visits Badge](https://badges.pufler.dev/visits/prokhororlov)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/prokhororlov/prokhororlov)](https://badges.pufler.dev)
