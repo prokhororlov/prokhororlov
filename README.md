@@ -35,7 +35,8 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - Established build/deploy processes and conducted releases  
 - Created technical documentation and conducted technical interviews
 - Crafted a supper effective offline [images optimizer](https://github.com/prokhororlov/image-optimizer)
-- Made usefull [repo to file](https://github.com/prokhororlov/repo2file) tool for packing any project codebase to a single file for uploading as a context to AI  
+- Made usefull [repo to file](https://github.com/prokhororlov/repo2file) tool for packing any project codebase to a single file for uploading as a context to AI
+- Designed a highload Node.js proxy solution with aggregating, and batching-process POST requests, and forwarding to UDP to a third-party analytics service  
 
 ㅤStack: React, Effector, Pixi.js, Spine, WebGL, JavaScript, TypeScript, Webpack
 
