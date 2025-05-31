@@ -70,8 +70,8 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ㅤStack: Adobe Photoshop, Adobe Illustrator, PHP, HTML, CSS, JavaScript
 
 ## 🎓 Education  
-- [**Irkutsk State University**](https://isu.ru/en/) — B.Sc. in Applied Informatics (2012–2016)  
-- [**Synergy University**](https://synergy.university/) — M.Sc. in Fundamental Informatics (2016–2018)  
+- [Irkutsk State University](https://isu.ru/en/) — B.Sc. in Applied Informatics (2012–2016)  
+- [Synergy University](https://synergy.university/) — M.Sc. in Fundamental Informatics (2016–2018)  
 
 ## 📂 Pet Projects  
 - [InvestFactors](https://investfactors.ru) - Investment portal (Vue, Node.js, Express, Passport.js, Firebase, Element Plus)  
