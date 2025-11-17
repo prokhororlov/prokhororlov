@@ -74,6 +74,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - [Synergy University](https://synergy.university/) — M.Sc. in Fundamental Informatics (2016–2018)  
 
 ## 📂 Pet Projects  
+- [Ecoproxy](https://ecoproxy.ru) - Advanced IP & browser fingerprint detector for privacy and connection diagnostics
 - [InvestFactors](https://investfactors.ru) - Investment portal (Vue, Node.js, Express, Passport.js, Firebase, Element Plus)  
 - [Logolook](https://logolook.ru) - Logo generator (Angular 4, Node.js, Firebase, Nginx, SVG)  
 - [Phaser Game](https://http416.ru/projects/phaser-game/) - Simple arcade game (Phaser, javascript-state-machine)
