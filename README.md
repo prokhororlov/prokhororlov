@@ -16,7 +16,7 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 ## 💼 Professional Experience  
 
 ### **Frontend Lead**
-ㅤ [_**01Tech**_](https://www.linkedin.com/company/01tech-global) | Aug 2024-Present  
+ㅤ [_**01Tech**_](https://01.tech) | Aug 2024-Present  
 - Leading team of 8+ frontend developers in high-pressure environment with frequent process changes  
 - Managed full development cycle from requirements analysis with PO/game designers to release and maintenance  
 - Established coding standards and regular reviews to minimize technical debt  
