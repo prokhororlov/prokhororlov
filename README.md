@@ -87,5 +87,5 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - **Backend**: Node.js | Express | Databases  
 - **Leadership**: Architecture | Mentoring | Process optimization  
 
-![Visitors](https://komarev.com/ghpvc/?username=prokhororlov&style=for-the-badge)
 
+![Profile views](https://hits.sh/github.com/prokhororlov.svg)
