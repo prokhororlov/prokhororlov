@@ -1,7 +1,7 @@
 # Prokhor Orlov  
 🪪 Senior Frontend Developer, **8+** years experience  
 📍 GMT+3 | Open to work | Remote  
-📫 [prokhororlov@gmail.com](mailto:prokhororlov@gmail.com) | [Telegram](https://t.me/http416) | [Linkedin](https://www.linkedin.com/in/prokhororlov/) 
+📫 [prokhororlov@gmail.com](mailto:prokhororlov@gmail.com) | [Telegram](https://t.me/http416)
 
 ## 👨‍💻 About Me  
 I'm a **T-shaped Frontend Engineer** specializing in complex interactive web applications, architecture, team leadership with experience in Node.js, Java, C++, and graphic design background. My experience inspires me to craft performant, animation-rich UIs with meticulous attention to detail. I thrive on solving complex technical challenges across the full stack while mentoring teams to deliver maintainable solutions. What drives me is creating seamless user experiences through clean architectures and optimized performance. My unique blend of technical depth and creative vision helps bridge gaps between design, frontend, and backend domains.
