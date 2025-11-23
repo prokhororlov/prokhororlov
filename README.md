@@ -88,4 +88,5 @@ I'm a **T-shaped Frontend Engineer** specializing in complex interactive web app
 - **Leadership**: Architecture | Mentoring | Process optimization  
 
 
-![Profile views](https://hits.sh/github.com/prokhororlov.svg)
+![Profile views](https://hits.sh/github.com/prokhororlov.svg?style=flat-square&label=Profile%20Views&color=green)
+
